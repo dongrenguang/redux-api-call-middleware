@@ -1,0 +1,25 @@
+{
+  "name": "redux-call-api-middleware",
+  "version": "1.0.0",
+  "description": "Redux middleware for making async api call easy and predictably.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dongrenguang/redux-call-api-middleware.git"
+  },
+  "keywords": [
+    "Redux",
+    "Middleware",
+    "API",
+    "Call"
+  ],
+  "author": "Dong, Renguang <dongrenguang@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dongrenguang/redux-call-api-middleware/issues"
+  },
+  "homepage": "https://github.com/dongrenguang/redux-call-api-middleware#readme"
+}
