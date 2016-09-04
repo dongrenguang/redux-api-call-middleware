@@ -1,4 +1,4 @@
-# redux-call-api-middleware
+# redux-api-call-middleware
 Redux middleware for making async api call easy and predictably.
 
 ## Usage

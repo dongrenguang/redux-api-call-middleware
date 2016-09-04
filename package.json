@@ -1,5 +1,5 @@
 {
-  "name": "redux-call-api-middleware",
+  "name": "redux-api-call-middleware",
   "version": "1.0.0",
   "description": "Redux middleware for making async api call easy and predictably.",
   "main": "lib/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dongrenguang/redux-call-api-middleware.git"
+    "url": "git+https://github.com/dongrenguang/redux-api-call-middleware.git"
   },
   "keywords": [
     "Redux",
@@ -19,7 +19,7 @@
   "author": "Dong, Renguang <dongrenguang@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dongrenguang/redux-call-api-middleware/issues"
+    "url": "https://github.com/dongrenguang/redux-api-call-middleware/issues"
   },
-  "homepage": "https://github.com/dongrenguang/redux-call-api-middleware#readme"
+  "homepage": "https://github.com/dongrenguang/redux-api-call-middleware#readme"
 }
